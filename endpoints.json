@@ -1,0 +1,12 @@
+{
+  "h5_domains": [
+    "https://h5.jilejk.com/",
+    "https://h5b.xxx.com/",
+    "https://h5c.xxx.com/"
+  ],
+  "api_bases": [
+    "https://ap.jilejk.com/api",
+    "https://ap2.xxx.com/api",
+    "https://ap3.xxx.com/api"
+  ]
+}
