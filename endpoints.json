@@ -1,12 +1,9 @@
 {
   "h5_domains": [
     "https://jile3.com/",
-    "https://jile11.com/",
-    "https://h5c.xxx.com/"
+    "https://jile11.com/"
   ],
   "api_bases": [
-    "https://ap.jilejk.com/api",
-    "https://ap2.xxx.com/api",
-    "https://ap3.xxx.com/api"
+    "https://ap.jilejk.com/api"
   ]
 }
